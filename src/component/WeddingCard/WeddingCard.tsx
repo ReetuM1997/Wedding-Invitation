@@ -1,8 +1,9 @@
 import React from "react";
 
-import weddingImage from "/src/assets/images/WhatsApp Image 2025-11-04 at 11.55.34 PM.jpeg";
-import weddingImage1 from "/src/assets/images/WhatsApp Image 2025-11-04 at 11.59.56 PM.jpeg";
-import weddingImage2 from "/src/assets/images/WhatsApp Image 2025-11-05 at 12.06.59 AM.jpeg";
+import weddingImage from "../../assets/images/WhatsApp Image 2025-11-04 at 11.55.34 PM.jpeg";
+import weddingImage1 from "../../assets/images/WhatsApp Image 2025-11-04 at 11.59.56 PM.jpeg";
+import weddingImage2 from "../../assets/images/WhatsApp Image 2025-11-05 at 12.06.59 AM.jpeg";
+
 
 const WeddingCard = () => {
   return (
