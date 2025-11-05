@@ -1,4 +1,4 @@
-import React from 'react'
+
 import WeddingCard from './WeddingCard'
 
 const page = () => {

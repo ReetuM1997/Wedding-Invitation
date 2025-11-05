@@ -1,9 +1,6 @@
-import React from "react";
-
-import weddingImage from "../../assets/images/WhatsApp Image 2025-11-04 at 11.55.34 PM.jpeg";
+import weddingImage from "../../assets/images/WhatsApp Image 2025-11-05 at 12.04.49 AM.jpeg";
 import weddingImage1 from "../../assets/images/WhatsApp Image 2025-11-04 at 11.59.56 PM.jpeg";
 import weddingImage2 from "../../assets/images/WhatsApp Image 2025-11-05 at 12.06.59 AM.jpeg";
-
 
 const WeddingCard = () => {
   return (
@@ -200,7 +197,7 @@ const WeddingCard = () => {
             <div className="text-center">
               <div className="groomName">Harisha</div>
               <div className="text-gray-700">
-                S/o <strong>Nagarajappa  & Rathnamma</strong>
+                S/o <strong>Nagarajappa & Rathnamma</strong>
               </div>
             </div>
           </div>
@@ -222,7 +219,7 @@ const WeddingCard = () => {
           <iframe
             title="Wedding Location"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3915.124952815198!2d75.8102317!3d14.5136719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb9e4e982de3079%3A0x4c5f28f33c6c35a!2sShree%20Yashaswini%20Convention%20Hall%2C%20Harihara%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1730817800000!5m2!1sen!2sin"
-            allowFullScreen=""
+            allowFullScreen
             loading="lazy"
           ></iframe>
         </div>
@@ -241,24 +238,23 @@ const WeddingCard = () => {
           <div className="font-bold text">Sunday, 12:00 PM</div>
           <div className="date seq d-4">16 November 2025</div>
 
-         <div className="address-text seq d-8 text-center mt-4">
-  <h4 className="font-medium">📍 Reception Venue</h4>
-  <h2 className="font-bold text-xl">
-    Chowdeshwari Temple, 1st Main 8th Cross Rd, K R Nagar, Vijayanagar Extension, Harihar, Karnataka 577601
-  </h2>
-</div>
+          <div className="address-text seq d-8 text-center mt-4">
+            <h4 className="font-medium">📍 Reception Venue</h4>
+            <h2 className="font-bold text-xl">
+              Chowdeshwari Temple, 1st Main 8th Cross Rd, K R Nagar, Vijayanagar Extension, Harihar, Karnataka 577601
+            </h2>
+          </div>
 
-<iframe
-  title="Reception Location"
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3915.1107290851974!2d75.80886067509254!3d14.514816585970845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb9e4dc1e47e57b%3A0x3b1c4b2b963d9d60!2sChowdeshwari%20Temple%2C%20K%20R%20Nagar%2C%20Vijayanagar%20Extension%2C%20Harihar%2C%20Karnataka%20577601!5e0!3m2!1sen!2sin!4v1730830000000!5m2!1sen!2sin"
-  width="100%"
-  height="300"
-  style={{ border: 0, borderRadius: "12px", marginTop: "10px" }}
-  allowFullScreen=""
-  loading="lazy"
-  referrerPolicy="no-referrer-when-downgrade"
-></iframe>
-
+          <iframe
+            title="Reception Location"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3915.1107290851974!2d75.80886067509254!3d14.514816585970845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb9e4dc1e47e57b%3A0x3b1c4b2b963d9d60!2sChowdeshwari%20Temple%2C%20K%20R%20Nagar%2C%20Vijayanagar%20Extension%2C%20Harihar%2C%20Karnataka%20577601!5e0!3m2!1sen!2sin!4v1730830000000!5m2!1sen!2sin"
+            width="100%"
+            height="300"
+            style={{ border: 0, borderRadius: "12px", marginTop: "10px" }}
+            allowFullScreen
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+          ></iframe>
         </div>
       </div>
     </>
